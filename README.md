@@ -1,1 +1,1 @@
-# Recipes
+1. Übung von https://www.theodinproject.com/lessons/foundations-recipes über HTML-basics
